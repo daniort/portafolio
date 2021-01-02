@@ -1,0 +1,11 @@
+
+
+.contenedor {
+    width: 90%;
+    max-width: 800px;
+    margin: auto ;
+}
+
+.heros{
+ background-color: blueviolet;
+}
