@@ -1,0 +1,11 @@
+.is-black{
+    background-color: #03191E;
+    padding: 10px;
+}
+.navbar-item{
+    font-family: 'Staatliches', cursive; 
+}
+.navbar-item:hover{
+    background-color: magenta;
+}
+

@@ -1,11 +1,15 @@
-
-
-.contenedor {
-    width: 90%;
-    max-width: 800px;
-    margin: auto ;
+.hero{
+    background-color: #03191E;
+    background-size: cover;
 }
 
-.heros{
- background-color: blueviolet;
+.is-danger{
+    /* background-color: #DD0426; */
+    
+    background-image: linear-gradient(to right, #B20D30 , #DD0426);
 }
+.title{
+     font-family: 'Staatliches', cursive; 
+    /* font-family: 'Orbitron', sans-serif; */
+}
+

@@ -1,0 +1,79 @@
+.hero{
+    background-color: #03191E;
+    background-size: cover;
+    color:whitesmoke;
+    padding: 30px;
+
+}
+
+.fila{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2%;
+}
+
+h1{
+    font-size: 30px;
+    background: -webkit-linear-gradient(whitesmoke,white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Staatliches', cursive;
+    
+    /* color: linear-gradient(to right, #B20D30 , #DD0426);  */
+    /* background: -webkit-linear-gradient(#eee, #333); */
+ /* color:chartreuse; */
+}
+
+.avatar{
+    background-image: url("/assets/images/expo.jpg");
+      /* cambia estos dos valores para definir el tamaño de tu círculo */
+      height: 100%;
+      width: 30%;
+      /* los siguientes valores son independientes 
+      del tamaño del círculo */
+      background-repeat: no-repeat;
+      background-position: 50%;
+      border-radius: 50%;
+      background-size: 100% auto;
+}
+
+.mio2{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.mio{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.title{
+    /* background-color: #DD0426; */
+    /* color: linear-gradient(to right, #B20D30 , #DD0426); */
+    
+
+}
+.title{
+     font-family: 'Staatliches', cursive; 
+    /* font-family: 'Orbitron', sans-serif; */
+    color: brown;
+}
+
+.right-image{
+    
+    background-image: url("/assets/images/expo.jpg");
+    width: 90%;
+    border-radius: 30px;
+       background-color: grey;
+       background-size: cover;
+       height: 250px
+  }
+  
+

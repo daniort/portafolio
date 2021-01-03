@@ -1,0 +1,26 @@
+#col{
+    background-image: linear-gradient(to right, blue , #9423a7);
+}
+
+.parrafo{
+    margin-bottom: 40px;
+}
+
+.image{
+    filter: saturate(00%) ;
+    
+}
+
+
+.is-full{
+    
+    display: inline-flexbox;
+}
+
+.hero{
+    background-color: #03191E;
+    background-size: cover;
+    color:whitesmoke;
+    padding: 30px;
+
+}
