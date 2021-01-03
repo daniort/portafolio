@@ -4,23 +4,44 @@
 
 .parrafo{
     margin-bottom: 40px;
+    text-align: center;
 }
-
-.image{
-    filter: saturate(00%) ;
-    
-}
-
-
-.is-full{
-    
-    display: inline-flexbox;
-}
-
 .hero{
-    background-color: #03191E;
+    background-color: #001C20; 
     background-size: cover;
     color:whitesmoke;
     padding: 30px;
-
+}
+.is-one-fifth, .is-one-third{
+    text-align:center;    
+    padding: 5px;
+}
+figure{
+    margin: auto;
+}
+h2{
+    margin: 20px;
+}
+.is-5{
+    font-size: 10;
+}
+.is-6{
+    padding-top: 8px;
+    font-family: 'Staatliches', cursive; 
+}
+.is-3{
+    padding-top: 8px;
+    font-family: 'Orbitron', sans-serif;
+}
+.fila{
+    margin-bottom: 40px;
+}
+figure:hover{
+    filter: blur(5px);
+}
+p{
+    text-align: justify;
+    color: gray;
+    padding-left: 200px;
+    padding-right: 200px;
 }
