@@ -1,5 +1,7 @@
 .is-black{
-    background-color: #03191E;
+    
+    background-color: #001C20; 
+    
     padding: 10px;
 }
 .navbar-item{
@@ -8,9 +10,12 @@
 .navbar-item:hover{
     background-color: magenta;
 }
-
-  .title{
-      font-family: 'Orbitron', sans-serif;
-    }
-
-  
+.title{
+    font-family: 'Orbitron', sans-serif;
+    color: darkslategrey;
+}
+/* .is-3{
+    //background: -webkit-linear-gradient(#B20D30, #DD0426);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  } */

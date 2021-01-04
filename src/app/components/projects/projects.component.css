@@ -1,0 +1,52 @@
+
+.hero{
+    background-color: #001C20; 
+    background-size: cover;
+    color:whitesmoke;
+    padding: 30px;
+}
+.parrafo{
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    margin-bottom: 10%;
+}
+#mitutulo{
+    font-family: 'Orbitron', sans-serif;
+}
+
+p{
+    
+}
+.is-multiline{
+    background-color: coral;
+}
+.column{
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+
+}
+figure{
+    margin: auto;
+}
+
+
+.fila{
+    margin-bottom: 5%;
+}
+
+.is-danger{ 
+    background-image: linear-gradient(to right, #B20D30 , #DD0426);
+}
+.is-danger:hover{
+    filter: blur(0.5px);
+}
+button{
+    margin: 15px;
+}
+
+
+.title{
+    font-family: 'Staatliches', cursive; 
+   /* font-family: 'Orbitron', sans-serif; */
+}

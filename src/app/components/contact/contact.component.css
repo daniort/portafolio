@@ -1,0 +1,41 @@
+.fab{
+    background: -webkit-linear-gradient(#B20D30, #DD0426);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.parrafo{
+    margin-bottom: 80px;
+    text-align: center;
+    
+}
+.hero{
+    background-color: #001C20; 
+    background-size: cover;
+    color:whitesmoke;
+    
+}
+.is-one-fifth, .is-one-third{
+    text-align:center;    
+    padding: 5px;
+}
+figure{
+    margin: auto;
+    padding-top: 30px;
+}
+.is-3{
+    padding-top: 8px;
+    font-family: 'Orbitron', sans-serif;
+}
+.fila{
+    margin-bottom: 40px;
+}
+figure:hover{
+    filter: blur(2px);
+}
+p{
+    color: darkgray;
+}
+h1{
+    margin-top: 8%;
+}

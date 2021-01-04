@@ -19,10 +19,6 @@ h1{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-family: 'Staatliches', cursive;
-    
-    /* color: linear-gradient(to right, #B20D30 , #DD0426);  */
-    /* background: -webkit-linear-gradient(#eee, #333); */
- /* color:chartreuse; */
 }
 
 .avatar{
@@ -77,3 +73,37 @@ h1{
   }
   
 
+/* //////////////////////////////////7 */
+#col{
+    background-image: linear-gradient(to right, blue , #9423a7);
+}
+
+.parrafo{
+    /* margin-bottom: 40px; */
+    text-align: center;
+}
+.hero{
+    background-color: #001C20; 
+    background-size: cover;
+    color:whitesmoke;
+    padding: 0px;
+}
+
+
+.is-3{
+    padding-top: 8px;
+    font-family: 'Orbitron', sans-serif;
+}
+
+figure{
+    margin: auto;
+}
+figure:hover{
+    filter: blur(5px);
+}
+p{
+    text-align: justify;
+    color: gray;
+    padding-left: 200px;
+    padding-right: 200px;
+}
