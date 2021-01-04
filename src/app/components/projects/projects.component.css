@@ -26,8 +26,9 @@ p{
     text-align: center;
 
 }
-figure{
+figure:hover{
     margin: auto;
+    filter: saturate(110%) contrast(110%);
 }
 
 
